@@ -60,7 +60,6 @@ ekilitprog/
 - ✅ Kilit ekranında duyuru sistemi (marquee)
 - ✅ Okul bazlı yetkilendirme (RBAC: SuperAdmin > Principal > Teacher)
 - ✅ Lisans yönetim sistemi
-- ✅ Apple tarzı glassmorphic dark tema
 
 ## 🔒 Güvenlik
 
