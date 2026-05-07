@@ -194,9 +194,6 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. © 2024 [Xren Soft
 
 ---
 
-<p align="center">
-  <strong>E-Kilit</strong> — <a href="https://xrensoftware.net">Xren Software</a> tarafından Türk eğitim sistemi için geliştirilmiş açık kaynaklı akıllı tahta güvenlik çözümü 🇹🇷
-</p>
 "# ekilit" 
 "# ekilit" 
 "# ekilit" 
