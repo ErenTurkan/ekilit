@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Database
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Upload files
+uploads/announcements/*
+uploads/avatars/*
+uploads/files/*
+uploads/screenshots/*
+!uploads/**/.gitkeep
+
+# .NET Build output
+bin/
+obj/
+*.csproj.user
+
+# Windows Installer artifacts
+*.msi
+*.wixpdb
+*.cab
+*.wxs
+
+# Expo
+.expo/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Next.js
+admin/.next/
+admin/out/
+
+# Admin Desktop
+admin-desktop/wwwroot/
+admin-desktop/wwwroot.zip
+
+# Mobile
+mobile/android/app/build/
+mobile/ios/
