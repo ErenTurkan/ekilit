@@ -1,16 +1,20 @@
-# E-Kilit — Akıllı Tahta Güvenlik ve Yönetim Sistemi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=160&section=header&text=E-Kilit&fontSize=60&fontColor=58a6ff&fontAlignY=55&desc=Ak%C4%B1ll%C4%B1%20Tahta%20G%C3%BCvenlik%20ve%20Y%C3%B6netim%20Sistemi&descSize=18&descAlignY=78&descColor=8b949e"/>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=USB+Anahtar+%7C+QR+Kod+%7C+Uzaktan+Ki%C3%B6sk+Y%C3%B6netimi;Ger%C3%A7ek+Zamanl%C4%B1+WebSocket+%C4%B0leti%C5%9Fimi;Electron+%7C+Next.js+%7C+Fastify+%7C+React+Native;Developed+by+Xren+Software)](https://git.io/typing-svg)
+
+[![Backend](https://img.shields.io/badge/API-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Panel](https://img.shields.io/badge/Panel-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Desktop](https://img.shields.io/badge/Desktop-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org)
+[![Tahta](https://img.shields.io/badge/Tahta-C%23_WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![Mobil](https://img.shields.io/badge/Mobil-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)
+[![Lisans](https://img.shields.io/badge/Lisans-MIT-green?style=flat-square)](LICENSE)
+
+</div>
 <p align="center">
   <strong>🔒 E-Kilit</strong> — Okullardaki akıllı tahtaları merkezi olarak kilitleyin, izleyin ve yönetin.<br>
   <em>Developed by <a href="https://xrensoftware.net">Xren Software</a></em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Panel-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tahta-C%23%20WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobil-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lisans-MIT-green?style=flat-square" />
 </p>
 
 ---
